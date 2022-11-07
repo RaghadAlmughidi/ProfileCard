@@ -1,11 +1,11 @@
 # ProfileCard
 
 
-<h1 align="center">{CRUDS}</h1>
+<h1 align="center">{PROFILE CARD}</h1>
 ## Table of Contents
-https://main--lovely-kelpie-be8ad2.netlify.app/
+https://quiet-axolotl-fef298.netlify.app/
 
-- [Overview](#overview CRUDS PROJECT)
+- [Overview](#overview )
   - [Built With](#built-with HTML&CSS&Java Script )
 
 
